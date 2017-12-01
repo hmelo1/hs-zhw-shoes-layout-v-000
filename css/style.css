@@ -308,6 +308,7 @@ iframe {
 	div.border_right{
 		float: left;
 		width: 32%;
+		padding-left: 10;
 	}
 /********** Footer **********/
 
