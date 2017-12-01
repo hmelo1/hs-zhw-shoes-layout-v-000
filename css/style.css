@@ -286,7 +286,7 @@ iframe {
 
 #details {
 	clear:both;
-	
+	padding: 20px 10px;
 	/* gradient */
 	background: rgb(229,229,229); /* Old browsers */
 	background: -moz-linear-gradient(top,  rgba(229,229,229,1) 0%, rgba(255,255,255,1) 99%); /* FF3.6+ */
@@ -311,7 +311,7 @@ iframe {
 		padding-left: 20px;
 	}
 	div.border_right.last{
-		
+
 	}
 /********** Footer **********/
 
