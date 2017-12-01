@@ -314,3 +314,13 @@ footer {
 	    display: table;
 	}
 /* code examples copyright Jonathan Grover 2012 */
+
+.col-1{
+	float: right;
+}
+.col-2{
+	float: right;
+}
+.col-3{
+	
+}
