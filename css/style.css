@@ -305,6 +305,9 @@ iframe {
 	#details a:hover, #details a:active {
 		text-decoration: underline;
 	}
+	div.border_right{
+		float: left;
+	}
 /********** Footer **********/
 
 footer {
