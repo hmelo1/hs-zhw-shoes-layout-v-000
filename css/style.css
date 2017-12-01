@@ -274,7 +274,7 @@ iframe {
 	section#deals.shadow{
 		float: left;
 		width: 32%;
-		margin-left: 10%;
+		margin: 10 10;
 	}
 
 /********** Details **********/
