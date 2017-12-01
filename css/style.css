@@ -317,9 +317,11 @@ footer {
 
 .col-1{
 	float: left;
+	margin: 32%;
 }
 .col-2{
 	float: right;
+	margin: 64%;
 }
 .col-3{
 
