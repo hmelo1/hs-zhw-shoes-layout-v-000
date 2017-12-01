@@ -264,7 +264,7 @@ iframe {
 	}
 
 	#archive .shadow{
-		background:blue;
+		float: right;
 	}
 
 /********** Details **********/
