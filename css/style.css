@@ -266,6 +266,7 @@ iframe {
 	section#archive.shadow{
 		float: right;
 		width: 32%;
+		padding-bottom: 10px;
 	}
 	section#featured.shadow{
 		float: left;
