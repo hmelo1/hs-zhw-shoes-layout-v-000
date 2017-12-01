@@ -271,8 +271,9 @@ iframe {
 		float: left;
 		width: 66%;
 	}
-	#deals{
-		background: blue;
+	section#deal-1.shadow{
+		float: left;
+		width: 32%;
 	}
 
 /********** Details **********/
