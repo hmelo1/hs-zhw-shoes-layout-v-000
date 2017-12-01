@@ -251,7 +251,7 @@ iframe {
 	background-repeat: no-repeat, repeat-y;
 	padding: 30px 0;
 }
-.shadow #archive{
+.shadow .archive{
 	float:right;
 }
 	/********** Sections **********/
