@@ -308,7 +308,7 @@ iframe {
 	div.border_right{
 		float: left;
 		width: 32%;
-		padding-left: 10;
+		padding-left: 10px;
 	}
 /********** Footer **********/
 
@@ -330,15 +330,3 @@ footer {
 	    display: table;
 	}
 /* code examples copyright Jonathan Grover 2012 */
-
-.col-1{
-	float: left;
-	margin: 32%;
-}
-.col-2{
-	float: right;
-	margin: 64%;
-}
-.col-3{
-
-}
