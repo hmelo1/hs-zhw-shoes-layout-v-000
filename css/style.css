@@ -304,4 +304,9 @@ footer {
 		text-decoration: underline;
 	}
 
+	.clearfix::after {
+	    content: "";
+	    clear: both;
+	    display: table;
+	}
 /* code examples copyright Jonathan Grover 2012 */
