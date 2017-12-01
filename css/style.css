@@ -263,7 +263,7 @@ iframe {
 		text-decoration: underline;
 	}
 
-	.shadow #archive{
+	section#archive.shadow.clearfix{
 		float: right;
 	}
 
