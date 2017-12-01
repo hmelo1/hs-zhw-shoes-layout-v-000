@@ -271,6 +271,9 @@ iframe {
 		float: left;
 		width: 66%;
 	}
+	#deals{
+		background: blue;
+	}
 
 /********** Details **********/
 
@@ -326,5 +329,5 @@ footer {
 	margin: 64%;
 }
 .col-3{
-
+	
 }
