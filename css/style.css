@@ -266,6 +266,9 @@ iframe {
 	section#archive.shadow{
 		float: right;
 	}
+	section#featured.shadow{
+		float: left;
+	}
 
 /********** Details **********/
 
